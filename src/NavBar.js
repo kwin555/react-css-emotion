@@ -24,7 +24,6 @@ const NavBar = () => {
         >
         <Link to="/">Adopt Me!</Link>
         <span
-            onClick={() => handleDogClick}
             css={css `
                 font-size:60px;
                 
